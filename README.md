@@ -1,5 +1,8 @@
 # Templates
 
-**Respositorio personal para multiples plantillas.**
+_Respositorio personal para multiples plantillas._
 
-- TypeScript
+## TypeScript
+
+- typescript
+- dotenv
